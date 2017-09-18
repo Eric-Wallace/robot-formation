@@ -1,7 +1,7 @@
 # robot-formation
 MATLAB simulation where N robots must locate each other, form a line, and move as one.
 
-```source setup.tcsh```
+```source setup.tcsh vclp_version```
 
 ```perl master_test.pl```
 
