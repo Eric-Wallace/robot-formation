@@ -7,4 +7,4 @@ MATLAB simulation where N robots must locate each other, form a line, and move a
 
 ```perl master_test.pl -converged target_ruleset```
 
-```perl create_test.pl -test test_name -rules rule_name -upf upf_location -source rtl_source_location -dotf rtl_dotf_location```
+```perl create_test.pl -test test_name -rules rule_name -upf upf_location -source source_location -dotf dotf_location```
