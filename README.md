@@ -4,3 +4,5 @@ MATLAB simulation where N robots must locate each other, form a line, and move a
 ```source environment.tcsh```
 
 ```perl master_test.pl```
+
+```perl master_test.pl -converged target_ruleset```
